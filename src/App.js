@@ -3,10 +3,10 @@ import TurkiyeMap from './TurkiyeMap';
 
 function App() {
   return (
-    <div className="App">
+    <>
       <TurkiyeMap />
       <Footer />
-    </div>
+    </>
   );
 }
 

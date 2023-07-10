@@ -29,6 +29,7 @@ const TurkiyeMap = () => {
   return (
     <div>
       <div className='container'>
+        <small><b>Not:</b> Şehir seçip/kaldırmak için haritada üstüne tıkla.</small><br/>
         <h2>Gezilen Şehir Sayısı: {country.length}/81</h2>
         <div style={{ display: 'flex', flexWrap: 'wrap' }}>
           {
