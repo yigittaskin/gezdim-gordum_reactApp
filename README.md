@@ -9,3 +9,4 @@ Kullanılan Teknolojiler:
 - useState
 - CSS
 - Javascript
+![Ekran Alıntısı](https://github.com/yigittaskin/gezdim-gordum_reactApp/assets/43133579/e92db200-c5ae-47fb-aa6f-7dae569336ff)
